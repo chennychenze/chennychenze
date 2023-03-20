@@ -1,4 +1,5 @@
-# 💫 Hi there
-My name is Chenze Chen and I am currently pursuing BS in Computer Science and Applied Data Analytics at Syracuse University.<br>
-I really enjoy learning languages and frameworks like JavaScript and React, and I have a passion for full stack web development.<br>
-In my free time, I like to play League and watch animes for fun :)
+* :wave: Hi there! I'm Chenze Chen <br>
+* :school: I am studying Computer Science and Applied Data Analytics at Syracuse University <br>
+* :computer: I enjoy learning languages and frameworks like JavaScript and React <br>
+* :yellow_heart: I have a passion for full-stack web development and software engineering <br>
+* :envelope: You can reach me at chenny.chenze@gmail.com for collaboration 
