@@ -17,13 +17,13 @@
 ```yaml
 legal_name: Chenze Chen
 go_by_the_name: Chen
+education: BS in Computer Science and Applied Data Analytics at Syracuse University
 geographic_targets:
   [
     "New York, NY",
     "Boston, MA",
     "California"
   ]
-education: BS in Computer Science and Applied Data Analytics at Syracuse University
 fields_of_interests:
   [
     "Software Development",
