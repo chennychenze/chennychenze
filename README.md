@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media2.giphy.com/media/zwPRprvrP4Lm0/giphy.gif?cid=ecf05e4750op5zn4hfr4qglkurpffjx09ejch1bgzo7afz06&rid=giphy.gif&ct=g" width="300">
+  <img src= "https://media2.giphy.com/media/zwPRprvrP4Lm0/giphy.gif?cid=ecf05e4750op5zn4hfr4qglkurpffjx09ejch1bgzo7afz06&rid=giphy.gif&ct=g">
 </p>
 
 ```yaml
