@@ -23,16 +23,13 @@ geographic_targets:
     "Boston, MA",
     "California"
   ]
-
 education: BS in Computer Science and Applied Data Analytics at Syracuse University
-
 fields_of_interests:
   [
     "Software Development",
     "Web Development",
     "UI/UX",
   ]
-
 hobbies: ["League of Legends", "Netflix", "Photography", "Music"]
 ```
   
