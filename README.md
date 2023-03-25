@@ -28,7 +28,7 @@ fields_of_interests:
   [
     "Software Development",
     "Web Development",
-    "UI/UX",
+    "UI/UX"
   ]
 hobbies: ["League of Legends", "Netflix", "Photography", "Music"]
 ```
