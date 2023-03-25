@@ -15,7 +15,7 @@
 </p>
 
 ```yaml
-name: Chenze Chen
+legal_name: Chenze Chen
 go_by_the_name: Chen
 geographic_targets:
   [
