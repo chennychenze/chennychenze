@@ -15,22 +15,20 @@
 </p>
 
 ```yaml
-legal_name: Chenze Chen
-go_by_the_name: Chen
-education: BS in Computer Science and Applied Data Analytics at Syracuse University
-geographic_targets:
-  [
-    "New York, NY",
-    "Boston, MA",
-    "California"
-  ]
-fields_of_interests:
-  [
-    "Software Development",
-    "Web Development",
-    "UI/UX"
-  ]
-hobbies: ["League of Legends", "Netflix", "Photography", "Music"]
+const aboutMe = {
+  name: "Chenze Chen",
+  preferredName: "Chen",
+  location: {
+    cityOne: "New York",
+    cityTwo: "Boston"
+  },
+  education: {
+    degree: "BS in Computer Science and Applied Data Analytics",
+    institution: "Syracuse University"
+  },
+  interest: "Full Stack Development",
+  hobby: "Photography"
+};
 ```
   
 --- 
