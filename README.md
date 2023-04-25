@@ -19,8 +19,8 @@ const aboutMe = {
   name: "Chenze Chen",
   preferredName: "Chen",
   location: {
-    cityOne: "New York",
-    cityTwo: "Boston"
+    primary: "New York",
+    secondary: "Open to Relocation"
   },
   education: {
     degree: "BS in Computer Science and Applied Data Analytics",
